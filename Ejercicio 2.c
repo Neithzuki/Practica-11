@@ -15,5 +15,5 @@ void sumar() // función suma
 {
   int z,x=5, y=10;
   z=x+y;
-  printf(“%i”,z);
+  printf("%i",z);
 }
